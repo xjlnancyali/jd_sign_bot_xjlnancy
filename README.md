@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/release-0.0.1-blue"/>
+    <img alt="Version" src="https://img.shields.io/badge/release-0.0.1-blue"/>   
     <a href="https://github.com/ruicky">
         <img alt="Author" src="https://img.shields.io/badge/author-ruicky-blueviolet"/>
     </a>
@@ -13,6 +13,9 @@
 功能：
 1. 获取签到最新代码
 2. 替换参数值
-3. 签到并发送通知
+3. 签到并发送
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
+
+
+
